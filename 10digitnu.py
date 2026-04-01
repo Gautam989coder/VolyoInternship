@@ -4,3 +4,6 @@ if len(number) == 10 and number.isdigit():
     print("The number is valid.")
 else:
     print("The number is not valid.")
+
+
+
