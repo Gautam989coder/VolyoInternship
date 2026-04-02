@@ -2,6 +2,8 @@
 
 from unittest import case
 
+from VolyoInternship.marrige import marrige_eligibility
+
 
 a = float(input("Enter first number: "))
 b= float(input("Enter second number: "))    
