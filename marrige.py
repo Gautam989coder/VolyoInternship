@@ -1,4 +1,3 @@
-
 def marrige_eligibility(gen,age):
 
  if gen=="male":
